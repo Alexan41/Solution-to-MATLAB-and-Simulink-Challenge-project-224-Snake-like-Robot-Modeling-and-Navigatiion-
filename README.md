@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project <224> <Snake-like Robot Modeling and Navigation>
+# Solution to MATLAB and Simulink Challenge project <224> Snake-like Robot Modeling and Navigation
 
 Please add the following items:
 
