@@ -1,10 +1,10 @@
 # Solution to MATLAB and Simulink Challenge project <224> Snake-like Robot Modeling and Navigation
 
-Please add the following items:
+Items:
 
 [Program link](https://github.com/Alexan41/Solution-to-MATLAB-and-Simulink-Challenge-project-224-Snake-like-Robot-Modeling-and-Navigatiion-.git)
 
-[Project description link]<Add link to the project description from the list of projects above>
+[Project description link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation)
 
 
 # Project details
