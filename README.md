@@ -2,7 +2,7 @@
 
 Please add the following items:
 
-[Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
+[Program link](https://github.com/Alexan41/Solution-to-MATLAB-and-Simulink-Challenge-project-224-Snake-like-Robot-Modeling-and-Navigatiion-.git)
 
 [Project description link]<Add link to the project description from the list of projects above>
 
