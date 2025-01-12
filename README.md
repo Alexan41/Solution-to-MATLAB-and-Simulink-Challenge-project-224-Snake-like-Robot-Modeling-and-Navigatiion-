@@ -8,7 +8,7 @@ Items:
 
 
 # Project details
-The project is a snake-liked robot that moves through an unfamiliar environment filled with walls, dodging obstacles (walls) it encounters along the way.
+The project is a snake-like robot that moves through an unfamiliar environment filled with walls, dodging obstacles (walls) it encounters along the way.
 
 The robot is made up of 5 large cylinders in series, whose rod movements in and out move the robot forward.
 When the rod of a large cylinder is extended, a small cylinder welded to it and pointing towards the ground also extends its rod, which sinks into the ground and immobilizes the large cylinder. 
