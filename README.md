@@ -21,7 +21,7 @@ If one of the sensors on the side of the end effector comes into contact with an
 
 
 # How to run section
-You will need MatLab-simulink 2021 at least, includind SIMSCAPE
+You will need MatLab-simulink 2021 at least, includind SIMSCAPE.
 First open the vrariables.mat file which contains essentials parameters for modeling the robot.
 Then open the simulink file FinalRobot.slx and run the simulation.
 
