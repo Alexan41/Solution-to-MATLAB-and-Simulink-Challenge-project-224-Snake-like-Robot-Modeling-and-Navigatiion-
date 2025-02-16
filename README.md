@@ -16,7 +16,7 @@ The large cylinder then starts to retract its rod, but since it's immobilized, i
 
 Obstacles detection is carried out by 3 small spheres, one at the front, and tw0 on each side of the end effector, which act as proximity sensors.
 If the sphere at the front encounters an obstacle, the spheres on the side move perpendicular to the snake's trajectory and in opposite directions. 
-If each encounter an obstacle, they evaluate the distance of these obstacles to the end effector, which pivots to the side from which the obstacle is furthest away.
+If any encounters an obstacle, it evaluates the distance of this obstacle to the end effector, which pivots to the side from which the obstacle is furthest away.
 If one of the sensors on the side of the end effector comes into contact with an obstacle, the robot pivots to the opposite side to avoid the obstacle.
 
 
